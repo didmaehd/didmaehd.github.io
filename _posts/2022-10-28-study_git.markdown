@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Study GIT"
+date:   2022-10-28 12:10:23 +0900
+categories: blog
+---
+git reset HEAD^ -> move staged area
+
+git reset --hard HEAD^ 
+
+git reset --soft HEAD^
+
